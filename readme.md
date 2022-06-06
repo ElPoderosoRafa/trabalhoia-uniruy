@@ -9,4 +9,4 @@
 <li> Wildervane Grazielle - 201751161331 </li>
 </ul>
 
-<b>Deve importar a pasta trabalhoIA-arleys na IDE de preferência. </b>
+<b>*Deve importar a pasta trabalhoIA-arleys na IDE de preferência.* </b>
