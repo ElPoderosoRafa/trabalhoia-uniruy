@@ -10,4 +10,4 @@
 </ul>
 
 <b>*Deve importar a pasta trabalhoIA-arleys na IDE de preferência.* </b> <br>
-<b>Não acertamos os pesos totalmente da Rede Neural, então as vezes tem uns bugs que é necessário compilar de novo o programa para desbugar. </b>
+<b style="color: red" >Não acertamos os pesos totalmente da Rede Neural, então as vezes tem uns bugs que é necessário compilar de novo o programa para desbugar. </b>
