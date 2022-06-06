@@ -8,3 +8,5 @@
 <li> Edmilson Ribeiro - 201851183817 </li>
 <li> Wildervane Grazielle - 201751161331 </li>
 </ul>
+
+<em>Deve importar a pasta trabalhoIA-arleys na IDE de preferência. </em>
